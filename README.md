@@ -1,2 +1,18 @@
-# Github-guide-Dojo
-Github guide Dojo
+🌄 Github guide Dojo 🌄
+
+🈚 **Free course**
+Curso Git e Github para iniciantes [Portuguese]
+https://www.udemy.com/course/git-e-github-para-iniciantes/
+
+
+🐙 **Git commands**
+https://wethefoss.github.io/Git-Commands/
+
+📙 **Guide Github**
+https://guides.github.com/
+
+**Descomplicando alguns termos**
+
+Branches
+
+Branches ("ramos") são utilizados para desenvolver funcionalidades isoladas umas das outras. O branch master é o branch "padrão" quando você cria um repositório. Use outros branches para desenvolver e mescle-os (merge) ao branch master após a conclusão.

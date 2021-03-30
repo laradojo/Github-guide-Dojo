@@ -18,6 +18,6 @@ Os READMEs geralmente seguem um formato para orientar os desenvolvedores sobre o
 - **Instalação**: A instalação é a próxima seção em um README eficaz. Diga a outros usuários como instalar seu projeto localmente. Opcionalmente, inclua um GIF para tornar o processo ainda mais claro para outras pessoas.
 
 - **Uso**: a próxima seção é o uso, na qual você instrui outras pessoas sobre como usar seu projeto depois de instalá-lo. Esse também seria um bom lugar para incluir capturas de tela do projeto em ação.
-- 
+
 _O README deve conter apenas as informações necessárias para os desenvolvedores começarem a usar e contribuir com o projeto._
 ###### A documentação mais longa é mais adequada para wikis.

@@ -37,7 +37,7 @@ Ao criar um novo repositório no GitHub, selecione a opção “Inicializar este
 
 - **Uso**: a próxima seção é o uso, na qual você instrui outras pessoas sobre como usar seu projeto depois de instalá-lo. Esse também seria um bom lugar para incluir capturas de tela do projeto em ação.
 
-- **Fontes**: Exemplo prático
+- **Fontes**: Exemplo prático 👇
 
 > Este tutorial foi inspirado em "How to write a good README for your GitHub project?" por [Rita Łyczywek](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) e em "Documenting your projects on GitHub" por [Github Guides](https://guides.github.com/features/wikis/).
 

@@ -23,7 +23,7 @@ Ao criar um novo repositório no GitHub, selecione a opção “Inicializar este
 ![readMe image](https://user-images.githubusercontent.com/71899880/113059593-01fdfd80-9186-11eb-8bd8-c9be2ebec259.png)
 ###### Seu arquivo README.md será inicializado junto com o seu novo repositório e estará disponível para edição.
 
-# Formatando o README
+## Formatando o README
 
 ##### Os READMEs geralmente seguem um formato para orientar os desenvolvedores sobre os aspectos mais importantes do projeto.
 

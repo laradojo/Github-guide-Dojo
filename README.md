@@ -5,7 +5,7 @@
 - Títulos e títulos internos
 - Introdução - objetivo do projeto
 - Tecnologias
-- Fontes
+- Lançamento
 
 #### Considere também o uso de elementos adicionais, como:
 - Índice
@@ -13,8 +13,8 @@
 - Escopo de funcionalidades
 - Exemplos de uso
 - Status do projeto
-- Origens
-- Outra informação
+- Fontes
+- Outras informações
 
 ## Criando o seu README
 

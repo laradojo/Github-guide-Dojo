@@ -39,7 +39,7 @@ Ao criar um novo repositório no GitHub, selecione a opção “Inicializar este
 
 - **Fontes**: Exemplo prático
 
-> Este tutorial foi inspirado em "How to write a good README for your GitHub project?" por [Rita Łyczywek](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) e em "Documenting your projects on GitHub" [Github Guides](https://guides.github.com/features/wikis/).
+> Este tutorial foi inspirado em "How to write a good README for your GitHub project?" por [Rita Łyczywek](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project) e em "Documenting your projects on GitHub" por [Github Guides](https://guides.github.com/features/wikis/).
 
 
 ###### _O README deve conter apenas as informações necessárias para os desenvolvedores começarem a usar e contribuir com o projeto.Para documentação mais longa é mais adequado utilizar wikis._
